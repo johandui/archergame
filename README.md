@@ -3,6 +3,4 @@
 
 
 ![Эрхий мэргэн illustrator](demo/1.png)
-![Эрхий мэргэн illustrator](demo/2.png)
-
 ![Эрхий мэргэн Demo](demo/demo.gif)
